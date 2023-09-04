@@ -32,4 +32,4 @@ app.post('/insert',function(req,res){
   res.send('성공');
 });
 
-app.listen(3030)
+app.listen(3000)
